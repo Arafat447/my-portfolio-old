@@ -1,0 +1,21 @@
+ .header img {
+    height:300px;
+    width:300px;
+    border-radius: 50%;
+}
+.header {
+    background: linear-gradient(rgba(15,94,156,.5),rgba(15,94,156,.5)),url("https://i.ibb.co/jJW23TC/IMG-1049.jpg");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 107vh;
+    overflow: hidden;
+}
+.animation {
+    position: relative;
+}
+.header-content {
+    position: absolute;
+    top:120px;
+    width: 100%;
+}

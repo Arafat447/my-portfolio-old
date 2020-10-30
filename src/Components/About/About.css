@@ -1,0 +1,21 @@
+.about-container {
+    background-color: lightslategrey;
+    height: 100vh;
+}
+.profile img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin-top: 120px;
+    border:4px solid lightskyblue;
+}
+.profile-info {
+    margin-top : 50px;
+}
+.skills {
+    margin-top: 30px;
+}
+.skills ul li {
+    color:#fff;
+    font-weight: 700;
+}

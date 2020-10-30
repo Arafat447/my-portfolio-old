@@ -1,0 +1,24 @@
+.portfolio-container {
+    background-color: lightslategrey;
+}
+.project-container img {
+    width: 100%;
+    padding:5px;
+    border-radius:5px;
+
+}
+.project-container {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    transition: all 0.2s ease-in;
+}
+.project-container:hover {
+    transform: scaleY(1.1);
+}
+.under-line {
+    width:300px;
+    height: 3px;
+    margin:0 auto;
+    background-color: limegreen;
+    margin-bottom: 40px;
+}
